@@ -15,8 +15,9 @@ body {
 }
 
 header {
+    background-color: rgb(51, 51, 51);
     font-family: Arial, sans-serif;
-    color: #116aa5;
+    color: #ffffff;
     font-weight: bold;
     position: relative;
     z-index: 1;
@@ -42,6 +43,7 @@ header img {
 }
 
 footer {
+    background-color: rgb(85, 85, 85);
     font-family: Arial, sans-serif;
     color: white;
     margin-top: auto;
