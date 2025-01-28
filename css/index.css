@@ -51,7 +51,7 @@ body {
 }
 
 .shadow {
-    background-color: #ffffff;
+    background-color: #333;
     transition: transform 0.2s ease-in-out;
 }
 
