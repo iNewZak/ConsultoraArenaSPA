@@ -46,6 +46,11 @@ header img {
     width: 100%;
 }
 
+.navbar-toggler {
+    border-color: white !important;
+    background-color: white !important;
+}
+
 footer {
     background-color: rgb(85, 85, 85);
     font-family: Arial, sans-serif;
