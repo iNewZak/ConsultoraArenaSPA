@@ -1,4 +1,4 @@
-html, body {
+html,body {
     height: 100%;
     margin: 0;
 }
@@ -29,8 +29,8 @@ header h6 {
     color: #ffffff !important;
 }
 
- header ul li ul{
-    background-color: rgb(85, 85, 85)!important;
+header ul li ul {
+    background-color: rgb(85, 85, 85) !important;
 }
 
 header ul a {
@@ -122,9 +122,21 @@ footer div#map {
 }
 
 .nombre_empresa {
-    text-decoration: none; 
-    color: #ffffff; 
-    font-size: 25px; 
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 25px;
     font-weight: 600;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.subtitulo {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #666;
+}
+
+.subsubtitulo {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
 }

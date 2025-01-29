@@ -1,12 +1,5 @@
-.subtitulo {
-    font-size: 30px;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
-    color: #116aa5;
-}
-
 body {
-    background-image: url("https://inewzak.github.io/ImportadoraSanVicenteSPA/img/fondo_nosotros2.jpg");
+    background-image: url("https://inewzak.github.io/ConsultoraArenaSPA/img/fondo_consultora2.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -32,4 +25,11 @@ body {
 .historia {
     height: 150px;
     width: 150px;
+}
+
+.subtitulo3 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #ffffff;
 }
